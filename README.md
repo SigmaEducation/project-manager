@@ -21,6 +21,6 @@
 
 ### Technology
 
-* RESTful backend (Flask/Django?)
+* RESTful backend (~~Flask~~/Django?)
 * Thick front end (Vue/Angular?)
 * Web hooks for GitHub integration
